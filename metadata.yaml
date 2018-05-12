@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '26490'
     url: http://www.gutenberg.org/2009/agents/26490
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24431#Peggy-Alone
 gutenberg_issued: '2008-01-26'
 gutenberg_type: Text
 identifiers:
